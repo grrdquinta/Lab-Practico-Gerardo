@@ -14,17 +14,17 @@
     <fragment
         android:id="@+id/navigation_dashboard"
         android:name="gerardo.quintanillas.emulador_20210490_gerardo.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
+        android:label="perfil"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="gerardo.quintanillas.emulador_20210490_gerardo.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
+        android:label="Informacion"
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/fragment_Contactanos"
         android:name="gerardo.quintanillas.emulador_20210490_gerardo.Fragment_Contactanos"
-        android:label="fragment__contactanos"
+        android:label="Contactanos"
         tools:layout="@layout/fragment__contactanos" />
 </navigation>

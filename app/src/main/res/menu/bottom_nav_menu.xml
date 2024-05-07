@@ -17,7 +17,7 @@
         android:title="Información" />
     <item
         android:id="@+id/fragment_Contactanos"
-        android:icon="@drawable/phone"
+        android:icon="@drawable/baseline_phone_24"
         android:title="Contactanos" />
 
 </menu>
